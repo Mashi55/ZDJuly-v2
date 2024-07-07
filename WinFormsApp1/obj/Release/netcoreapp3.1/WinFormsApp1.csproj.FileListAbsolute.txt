@@ -1,0 +1,15 @@
+G:\ZD 2023\WinFormsApp1\WinFormsApp1\bin\Release\netcoreapp3.1\WinFormsApp1.exe
+G:\ZD 2023\WinFormsApp1\WinFormsApp1\bin\Release\netcoreapp3.1\WinFormsApp1.deps.json
+G:\ZD 2023\WinFormsApp1\WinFormsApp1\bin\Release\netcoreapp3.1\WinFormsApp1.runtimeconfig.json
+G:\ZD 2023\WinFormsApp1\WinFormsApp1\bin\Release\netcoreapp3.1\WinFormsApp1.runtimeconfig.dev.json
+G:\ZD 2023\WinFormsApp1\WinFormsApp1\bin\Release\netcoreapp3.1\WinFormsApp1.dll
+G:\ZD 2023\WinFormsApp1\WinFormsApp1\bin\Release\netcoreapp3.1\WinFormsApp1.pdb
+G:\ZD 2023\WinFormsApp1\WinFormsApp1\obj\Release\netcoreapp3.1\WinFormsApp1.Form1.resources
+G:\ZD 2023\WinFormsApp1\WinFormsApp1\obj\Release\netcoreapp3.1\WinFormsApp1.csproj.GenerateResource.cache
+G:\ZD 2023\WinFormsApp1\WinFormsApp1\obj\Release\netcoreapp3.1\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+G:\ZD 2023\WinFormsApp1\WinFormsApp1\obj\Release\netcoreapp3.1\WinFormsApp1.AssemblyInfoInputs.cache
+G:\ZD 2023\WinFormsApp1\WinFormsApp1\obj\Release\netcoreapp3.1\WinFormsApp1.AssemblyInfo.cs
+G:\ZD 2023\WinFormsApp1\WinFormsApp1\obj\Release\netcoreapp3.1\WinFormsApp1.csproj.CoreCompileInputs.cache
+G:\ZD 2023\WinFormsApp1\WinFormsApp1\obj\Release\netcoreapp3.1\WinFormsApp1.dll
+G:\ZD 2023\WinFormsApp1\WinFormsApp1\obj\Release\netcoreapp3.1\WinFormsApp1.pdb
+G:\ZD 2023\WinFormsApp1\WinFormsApp1\obj\Release\netcoreapp3.1\WinFormsApp1.genruntimeconfig.cache

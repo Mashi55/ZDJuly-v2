@@ -1,0 +1,5 @@
+C:\Users\Csaba\Desktop\zd revision2\mellékletek\WinFormsApp1.exe
+C:\Users\Csaba\Desktop\zd revision2\mellékletek\WinFormsApp1.dll
+C:\Users\Csaba\Desktop\zd revision2\mellékletek\WinFormsApp1.deps.json
+C:\Users\Csaba\Desktop\zd revision2\mellékletek\WinFormsApp1.runtimeconfig.json
+C:\Users\Csaba\Desktop\zd revision2\mellékletek\WinFormsApp1.pdb

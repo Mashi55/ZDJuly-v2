@@ -1,0 +1,5 @@
+G:\ZD 2023\WinFormsApp1\WinFormsApp1\bin\Release\netcoreapp3.1\app.publish\WinFormsApp1.exe
+G:\ZD 2023\WinFormsApp1\WinFormsApp1\bin\Release\netcoreapp3.1\app.publish\WinFormsApp1.dll
+G:\ZD 2023\WinFormsApp1\WinFormsApp1\bin\Release\netcoreapp3.1\app.publish\WinFormsApp1.deps.json
+G:\ZD 2023\WinFormsApp1\WinFormsApp1\bin\Release\netcoreapp3.1\app.publish\WinFormsApp1.runtimeconfig.json
+G:\ZD 2023\WinFormsApp1\WinFormsApp1\bin\Release\netcoreapp3.1\app.publish\WinFormsApp1.pdb
